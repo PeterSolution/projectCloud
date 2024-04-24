@@ -1,0 +1,18 @@
+﻿<Window x:Class="cloudproject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:cloudproject"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Loaded="Grid_Loaded">
+        <Button Content="Wybierz pliki do przeslania" HorizontalAlignment="Left" Margin="400,10,0,0" VerticalAlignment="Top" Height="25" Width="153" Click="Button_Click"/>
+        <ListBox x:Name="listbox" d:ItemsSource="{d:SampleData ItemCount=0}" Margin="580,50,10,10"/>
+        <Button x:Name="senddata" Content="Wyslij dane do chmury" HorizontalAlignment="Left" Margin="414,40,0,0" VerticalAlignment="Top" Click="SendData_Click"/>
+        <Button Content="Pobierz wszystkie pliki" HorizontalAlignment="Left" Margin="55,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Pliki gotowe do przeslania" HorizontalAlignment="Left" Margin="611,17,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="listbox2" d:ItemsSource="{d:SampleData ItemCount=0}" Margin="10,40,580,10"/>
+
+    </Grid>
+</Window>

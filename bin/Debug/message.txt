@@ -1,0 +1,87 @@
+
+General Rules
+1. NO PAUSING
+2. No Coups or Boosting another nation against their will (this includes AI nations with neutral spirit)
+3. Cannot mass delete your army to only 1 division for training
+4. Majors must stay their historical ideology
+5. No spiking tension unnecessarily (E.G. Justifying on a random country, removing guarantee)
+6. May not send volunteers to more than 1 nation in the same war
+7. No tank division volunteers(no spg etc unless it is on a halftrack chassis)
+8. No mass releasing puppets; limited to one per year (Exception: Japan may release Cambodia and Laos for a player Siam to take and form their formable nation)
+9. Cannot release puppets in an active warzone
+10. Cannot request people’s land without prior consent
+11. Must maintain starting factions with the exception that Japan can disband their faction and join the Axis
+12. No deleting factories with the exception of removing buildings as a minor to make space once you have run out of building slots.
+13. No justifying outside of national focus or if you have cores and claims before Danzig or war,1940, or 100% world tension.
+14. Cannot Join factions until 1938
+15. Do not abuse exploits (ask the host if unsure of what is an exploit)
+16. No disbanding or changing templates of divisions that are encircled, about to be encircled or being attacked while being transported at sea.( no deleting units if they are not connected to the capital and there is a possibility of raiding and are in danger of dying)
+17. Cannot spawn divisions in a province that is under attack, or being moved into by the enemy
+18. No airwing size below 50 unless it is air volunteers, carriers, or less than 50 planes
+19. No using Force attack, Last stand, or Siege artillery if vanilla based mod(not one of the bruh mods)
+20. Cannot put your navy on do not engage unless retreating from a lost naval battle
+21. Cannot Naval invade with volunteer units unless the enemy has no navy
+22. Cannot Naval invade from territory that is neutral to the country you are attacking
+23. Cannot disband your navy unless you’re on low manpower while on service by requirement
+24. Cannot use strat bomber tech beyond strat bomber 1 if vanilla based mod(not one of the bruh mods)
+25. Only countries with unique focus trees can use nukes
+26. Cannot use Submarine 4s if vanilla based mod(not one of the bruh mods)
+27. No Renaming weapons so they get used first in lend-lease before other nations
+28. Cannot use mines
+29. Nations with default focus trees cannot use Kamikazes
+30. Only the Soviet Union can send land volunteers during the Sino-Japanese war
+31. If an enemy capital is encircled and no enemy player units are in the capital you must take it
+32. No using spies for pressure trade or propaganda missions
+33. Paratroopers must be at least 10 width to paradrop
+34. No deleting naval order after launching invasion
+35. Divisions with high xp (i.e. veterans) are not allowed to have their templates be manually changed in the division tab so as to create tank or special forces divisions that preserve their original xp. Such divisions must be converted with the conversion tool.
+36. submarines are not allowed on always engage.
+37. submarines are only allowed in 3 sea tiles per admiral
+38. no planes operating from neutral countries
+39. no hiding in ports in neutral countries to escape bombing
+40. no deleting units if they are not connected to the capital and there is a possibility of raiding and are in danger of dying
+41. tank rule is back so 50/50 everything under the tab of tank in the division designer is considered a tank
+42. paratroopers are not allowed to land on ports (only exception to this is if there are no units on the port), on tiles where enemy gets an encirclement penalty even to they are not encircled (for example El-Alamein ). And also not allowed on the eastern front.
+
+
+Axis Rules
+1. Germany cannot guarantee or ally Finland if they sign the Molotov pact until after the Winter war
+2. Italy must finish the war with Ethiopia by July of 1936 or else any nation is allowed to support them.
+3. Spain cannot join a faction during the civil war
+4. Spain cannot join the axis until Germany does the “Befriend Spain focus” or their post-civil war spirit expires
+5. Japan must declare war on China before 1st January 1938
+6. Japan can only Kamikaze in Sea of Japan, Coast of Japan, Yellow Sea, East China Sea, South China Sea
+7. Japan can only invade the Soviet Union if India has capitulated
+8. No axis volunteers in Finland during winter war.
+
+Comintern Rules
+1. USSR cannot lend-lease China or PRC prior to Sino Japanese War
+2. USSR cannot strat bomb Japanese ports in China, because interception is broken
+3. USSR must accept concessions with Finland if Finland is a player and the Molotov Pact is signed and have to accept the event immediately.
+4. No volunteers by the USSR to European and African fronts if Molotov has been signed and is still active.
+5. cant send volunteers to China until after purge
+6. China isn't allowed to send attaches to spain
+
+Allies Rules
+1. Cannot guarantee Portugal or call them into the allies if there is no Spain player
+2. Cannot deny Rhineland
+3. Cannot accept China, or any other Chinese minors into the faction unless the Allies are at war with
+4. Allies allowed to be in mainland USSR after Japan has capped Japan.
+5. Cannot give China naval docking rights to convoy raid Japan
+6. The USA cannot do focus union representation act
+7. The USA must do focus Neutrality act
+8. The USA cannot join the allies/lend-lease/send volunteers until France has fallen, it is June of 1940, Japan is at war with the UK, or the axis has captured a state in the UK
+9. The USA must demand compensation from the Japanese in the Panay incident
+10. The USA cannot use its focuses to declare on any other nation besides the Axis nations and Japan
+11. Mexico must join the allies and cannot map paint Latin America.
+12. The Netherlands cannot flood and cannot build forts the country. And they must be declared on if Germany does around the Maginot(cannot join allies before being declared upon). Netherlands needs to leave its mainland in 1941.
+13. Brazil and Mexico cannot call the US into any war until the US has joined the allies.
+14. no building ports until after capitulation for France and Netherlands.
+15. If France or the UK denies Sudetenland than they have to join the war when Germany declares on the czech's
+16. Netherlands has to stay democratic and join the Allies
+17. uk must give Canada Newfoundland
+18. Can't take troops out of Poland - Poland is not yet lost!
+19. Poland can't delete stockpiles
+20. Poland can't lend lease before capitulating
+21. Poland can't join a faction until they get declared war upon
+22. Brazil and the US can only join the war through their focus tree or events

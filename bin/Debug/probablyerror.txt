@@ -1,0 +1,3 @@
+
+[16:51:17][no_game_date][gamestate.cpp:2758]: MAP_ERROR: State "Uusimaa"(#111) has provinces (#32, #52) belonging to different strategic areas: "Western Finland" (#278), "Eastern Finland" (#13)
+[16:51:17][no_game_date][gamestate.cpp:2758]: MAP_ERROR: State "Kuopio"(#150) has provinces (#7, #37) belonging to different strategic areas: "Northern Finland" (#277), "Eastern Finland" (#13)
