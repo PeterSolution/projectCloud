@@ -7,12 +7,13 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid Loaded="Grid_Loaded">
-        <Button Content="Wybierz pliki do przeslania" HorizontalAlignment="Left" Margin="400,10,0,0" VerticalAlignment="Top" Height="25" Width="153" Click="Button_Click"/>
+        <Button Content="Wybierz pliki do przeslania" HorizontalAlignment="Left" Margin="400,10,0,0" VerticalAlignment="Top" Height="25" Width="153" Click="Button1_Click"/>
         <ListBox x:Name="listbox" d:ItemsSource="{d:SampleData ItemCount=0}" Margin="580,50,10,10"/>
         <Button x:Name="senddata" Content="Wyslij dane do chmury" HorizontalAlignment="Left" Margin="414,40,0,0" VerticalAlignment="Top" Click="SendData_Click"/>
-        <Button Content="Pobierz wszystkie pliki" HorizontalAlignment="Left" Margin="55,10,0,0" VerticalAlignment="Top"/>
+        <Button Content="Pobierz wszystkie pliki" HorizontalAlignment="Left" Margin="12,10,0,0" VerticalAlignment="Top" Click="Button_Click"/>
         <Label Content="Pliki gotowe do przeslania" HorizontalAlignment="Left" Margin="611,17,0,0" VerticalAlignment="Top"/>
         <ListBox x:Name="listbox2" d:ItemsSource="{d:SampleData ItemCount=0}" Margin="10,40,580,10"/>
+        <Button x:Name="pobwybplik" Content="Pobierz wybrany plik" HorizontalAlignment="Left" Margin="138,10,0,0" VerticalAlignment="Top" Click="pobwybplik_Click"/>
 
     </Grid>
 </Window>
